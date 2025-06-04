@@ -61,8 +61,65 @@ Download Data Here:- https://drive.google.com/drive/folders/1YviyK5J_0LS9yBb2lNh
 ## Visualization
 ![Screenshot 2025-05-09 152914](https://github.com/user-attachments/assets/32f32f7f-2456-45be-b2ed-98026871465a)
 
-## Insights
-#### Total
+## Key Highlights
+- Total Vehicles Analyzed: 150,413
+
+- Average Electric Range: 67.83 miles
+
+- EV Type Distribution:
+
+  a. Battery Electric Vehicles (BEVs): 116,745 (77.6%)
+
+  b. Plug-in Hybrid Electric Vehicles (PHEVs): 33,668 (22.4%)
+
+## Insights/Key Findings
+
+### Insights by Model Year
+- A consistent growth trend is observed from 2011 to 2023, with 2023 recording the highest number of vehicle registrations (37.1K).
+
+- This exponential rise indicates increased public interest, better infrastructure, and possible regulatory support in recent years.
+
+### Top Manufacturers
+- TESLA leads significantly with 68,939 vehicles (55.6%), followed by:
+
+  a. NISSAN (10.89%)
+
+  b. CHEVROLET (9.7%)
+
+  c. FORD, BMW, and KIA
+
+- The dominance of Tesla reflects its strong market presence and product reliability in the EV segment.
+
+### Geographic Distribution
+- Washington State accounts for the largest volume of EVs (150,082), suggesting concentrated adoption and possibly government or local support.
+
+- Other states show significantly smaller volumes, indicating room for adoption growth and expansion efforts.
+
+### Clean Fuel Vehicle (CAFV) Eligibility
+- Eligible: 62,887 (41.81%)
+
+- Not Eligible: 17,829 (11.85%)
+
+- Unknown: 69,697 (46.34%)
+
+- A significant portion of entries is marked unknown, indicating potential gaps in reporting or data collection which may hinder incentive effectiveness tracking.
+
+### Top Models
+- Model Y (TESLA) tops the chart with 28,501 units, followed by:
+
+  - Model 3, Leaf (Nissan), Model S, and Bolt EV
+
+- These models form the backbone of consumer preference in EV purchases.
+
+## Strategic Recommendations
+- Expand Incentive Awareness: Address the 46% CAFV unknowns by improving documentation and public awareness of clean energy incentives.
+
+- Focus on Low-Adoption States: States with minimal EV adoption could benefit from targeted campaigns, infrastructure support, and policy development.
+
+- Market Diversification: While Tesla dominates, opportunities exist for other manufacturers to expand their EV offerings and market share.
+
+- Optimize for Range: The average electric range (67.83 miles) suggests a potential demand for longer-range vehicles, especially in rural regions.
+
 
 
 
